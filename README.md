@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhilnitrr
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Vue.js with typescript
+- 🌱 I’m currently learning web development at NeogCamp
 
 - 📫 How to reach me ...drop an email on nikhilchandrakar3@gmail.com
 
