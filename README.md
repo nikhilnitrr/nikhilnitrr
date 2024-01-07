@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhilnitrr
 - 👀 I’m interested in software development
-- 🌱 I’m currently working as a Software Engineer at Akamai Technologies
+- 🌱 I’m currently working as a Software Engineer 2 at Akamai Technologies
 
 - 📫 How to reach me ...drop an email on nikhilchandrakar3@gmail.com
 
